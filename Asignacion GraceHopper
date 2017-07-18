@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Grace Hopper</title>
+  </head>
+  <body>
+    <div>
+      <h1><strong>Grace Hopper</strong></h1>
+      <hr>
+      <a href="https://en.wikipedia.org/wiki/Grace_Hopper" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg/220px-Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg" width="200px" alt="Older Grace Brewster Murray Hopper's official US Navy picture, dressed in US Navy uniform in front of American flag"></a>
+        <p><strong>Grace Brewster Murray Hopper</strong> (December 9, 1906 - January 1, 1992), <strong>Grace Brewster Murray,</strong> was an American <a href="https://en.wikipedia.org/wiki/Computer_scientist" target="_blank">computer scientist</a> and <a href="https://en.wikipedia.org/wiki/United_States_Navy" target="_blank">United States Navy rear admiral.</a> She was one of the first programmers of the <a href="https://en.wikipedia.org/wiki/Harvard_Mark_I target="_blank">Harvard Mark I</a> computer in 1944, invented the first compiler for a computer programming language, and was one of those who popularized the idea of machine-independent programming language which led to the development of <a href="https://en.wikipedia.org/wiki/COBOL" target="_blank"><strong>COBOL</strong></a>, on of the first <a href="https://en.wikipedia.org/wiki/High-level_programming_language" target="_blank"><em>high-level programming languages</em></a>.</p>
+      <p>Owing to her accomplishments and her naval rank, she is sometimes referred to as "Amazing Grace". The U.S. Navy Arleigh Burke class guided-missile destroyer <a href="https://en.wikipedia.org/wiki/USS_Hopper" target="_blank"><strong>USS Hopper</strong></a> (DDG-70) is named for her, as is the <a href="https://en.wikipedia.org/wiki/Cray_XE6" target="_blank"><strong>Cray XE6 "Hopper"</strong></a> supercomputer at <a href="https://en.wikipedia.org/wiki/National_Energy_Research_Scientific_Computing_Center" target="_blank">NERSC</a>.
+        <h2><strong>Content</strong></h2>
+      <ol>
+        <li><a href="#earlyLife">Early life and education</a></li>
+        <li><a href="#worldWar">Career</a></li>
+          <ol>
+            <li>World War II</li>
+            <li><a href="#cobol">COBOL</a></li>
+          </ol>
+        <li><a href="#awards">Awards and recognition</a></li>
+      </ol>
+        <h1><a id="earlyLife"><strong>Early life and education</strong></a></h1>
+          <p>Hopper was born in New York City. She was the oldest in a family of three children. Her parents, Walter Fletcher Murray and Mary Campbell Van Home, were of <a href="https://en.wikipedia.org/wiki/Dutch_people" target="_blank">Dutch</a> and <a href="https://en.wikipedia.org/wiki/Scottish_people" target="_blank">Scottish</a> descent, and attended <a href="https://en.wikipedia.org/wiki/West_End_Collegiate_Church" target="_blank">West End Collegiate Church</a>. Her great-grandfather, Alexander Wilson Russell, an admiral in the US Navy, fought in the <a href="https://en.wikipedia.org/wiki/Battle_of_Mobile_Bay" target="_blank">Battle of Mobile Bay</a> during the <a href="https://en.wikipedia.org/wiki/American_Civil_War" target="_blank">Civil War</a>.</p>
+          <p>Grace was a curious child, a lifelong trait: at the age of seven she decided to determine how an alarm clock worked, and dismantled seven alarm clocks before her mother realized what she was doing. For her <a href="https://en.wikipedia.org/wiki/University-preparatory_school" target="_blank">preparatory school</a> education, she attended the <a href="https://en.wikipedia.org/wiki/Wardlaw-Hartridge_School" target="_blank">Hartridge School</a> in <a href="https://en.wikipedia.org/wiki/Plainfield,_New_Jersey" target="_blank">Plainfield, New Jersey</a>. Rejected for early admission to <a href="https://en.wikipedia.org/wiki/Vassar_College" target="_blank">Vassar College</a> at age 16, she was admitted the following year. <strong>She graduated <a href="https://en.wikipedia.org/wiki/Phi_Beta_Kappa_Society" target="_blank">Phi Beta Kappa</a> from Vassar in 1928 with a bachelor's degree in mathematics and physics and earned her master's degree at <a href="https://en.wikipedia.org/wiki/Yale_University" target="_blank">Yale University</a> in 1930.</strong></p>
+          <p>In 1934, she earned a Ph.D. in mathematics from Yale under the direction of <a href="https://en.wikipedia.org/wiki/%C3%98ystein_Ore" target="_blank">Øystein Ore</a>. Her <a href="https://en.wikipedia.org/wiki/Thesis" target="_blank">dissertation</a>, <em>New Types of Irreducibility Criteria</em>, was published that same year. Hopper began teaching mathematics at Vassar in 193, and was promoted to associate profesor in 1941.</p>
+        <h1><a id="worldWar"><strong>Career</strong></a></h1>
+        <h2><strong>World War II</strong></h2>
+          <p>In 1943, during <a href="https://en.wikipedia.org/wiki/World_War_II" target="_blank">World War II</a>, Hopper obtained a leave of absence from Vassar and was sworn into the <a href="https://en.wikipedia.org/wiki/United_States_Navy_Reserve" target="_blank">United States Navy Reserve</a>, one of many women who volunteer to serve in the <a href="https://en.wikipedia.org/wiki/WAVES" target="_blank">WAVES</a>. She had to get an exeption to enlist; she was 15 pounds below the Navy minimum weight of 120 pounds. She reported in December and trained at the Naval Reserve Mindshipmen's School at <a href="https://en.wikipedia.org/wiki/Smith_College" target="_blank">Smith College</a> in <a href="https://en.wikipedia.org/wiki/Northampton,_Massachusetts" target="_blank">Northampton, Massachusetts</a>. Hopper graduated first in her class in 1944, and was assigned to <em><a href="https://en.wikipedia.org/wiki/Bureau_of_Ships" target="_blank">Bureau of Ships</a> Computation Project</em> at <a href="https://en.wikipedia.org/wiki/Harvard_University" target="_blank">Harvard University</a> as a lieutenant, junior grade. She served on the Mark I computer programming staff headed by <a href="https://en.wikipedia.org/wiki/Howard_H._Aiken" target="_blank">Howard H. Aiken</a>. Hopper and Aiken coauthored three papers on the Mark I, also known as the Automatic Sequence Controlled Calculator. Hopper's request to transfer to the regular Navy at the end of the war was declined due to her age (38). She continued to serve in the Navy Reserve. <strong>Hopper remained at the Harvard Computation Lab until 1949, turning down a full professorship at Vassar in favor of working as a research fellow under a Navy contract at Harvard.</strong></p>
+        <h3><a id="cobol"><strong>COBOL</strong></a></h3>
+          <p>In the spring of 1959, a two-day conference known as the Conference on Data Systems Languages (<a href="https://en.wikipedia.org/wiki/CODASYL" target="_blank">CODASYL</a>) brought together computer experts from industry and government. Hopper served as a technical consultant to the committee, and many of her former employees served on the short-term committee that defined the language <strong>COBOL</strong> (an acronym for <strong>CO</strong>mmon <strong>B</strong>usiness-<strong>O</strong>riented <strong>L</strong>anguage). The new language extended Hopper's FLOW-MATIC language with some ideas from the <a href="https://en.wikipedia.org/wiki/IBM" target="_blank">IBM</a> equivalent, <a href="https://en.wikipedia.org/wiki/COMTRAN" target="_blank">COMTRAN</a>. <strong>Hopper's belief that programs should be written in a language that was close to English (rather than in <a ref="https://en.wikipedia.org/wiki/Machine_code" target="_blank">machine code</a> or in languages close to machine code, such as <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">assembly languages</a>) was captured in the new business language, and COBOL went on to be the most ubiquitous business language to date.</strong></p>
+          <p>From 1967 to 1977, Hopper served as the director of the Navy Programming Languages Group in the Navy's Office of Information Systems Planning and was promoted to the rank of <a href="https://en.wikipedia.org/wiki/Captain_(United_States_O-6)" target="_blank">Captain</a> in 1973. She developed validation software for COBOL and its compiler as part of a COBOL standardization program for the entire Navy.
+    </div>
+    <div>
+      <h2><a id="awards"><strong>Awards and recognitions</strong></a></h2>
+        <ul>
+          <li><strong>1969:</strong> Hopper was awarded the inagural Computer Sciences Man of the Year award from the <a href="https://en.wikipedia.org/wiki/Association_of_Information_Technology_Professionals" target="_blank">Data Processing Management Association</a>.</li>
+          <li><strong>1971:</strong> The annual <a href="https://en.wikipedia.org/wiki/Grace_Murray_Hopper_Award" target="_blank">Grace Murray Hopper Award for Outstanding Youth Computer Professionals</a> was established in 1971 by the <a href="https://en.wikipedia.org/wiki/Association_for_Computing_Machinery" target="_blank">Association for Computing Machinery</a>.</li>
+          <li><strong>1987:</strong> The first <a href="https://en.wikipedia.org/wiki/Computer_History_Museum" target="_blank">Computer History Museum</a> Fellow Award Recipient "for contributions to the development of programming languages, for standardization efforts, and for lifelong naval service."</li>
+          <li><strong>1991:</strong> Elected a Fellow of the <a href="https://en.wikipedia.org/wiki/American_Academy_of_Arts_and_Sciences" target="_blank">American Academy of Arts and Sciences</a>.</li>
+          <li><strong>2013:</strong> Google made the <a href="https://en.wikipedia.org/wiki/Google_Doodle" target="_blank">Google Doodle</a> for Hopper's 107th birthday an animation of her sitting at a computer, using COBOL to print out her age. At the end of the animation, a moth flies out of the computer.</li>
+        </ul>
+    </div>
+      <hr>
+        <a href="mailto:user@domain.com"
+        title="'mailto' to open an email client and invite them to your event">Send me an email</a>
+      <hr>
+      <a href="tel: 555-555-5555"
+        title="Use 'tel:' to open a phone dialer">Call me</a>
+  </body>
+</html>
